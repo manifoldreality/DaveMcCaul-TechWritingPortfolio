@@ -15,4 +15,5 @@ Use Case for Dance Chives website: how dance competition metadata is entered by 
 
 **Figma Diagram**
 
-https://www.figma.com/design/6Z92kGgDpalGGQcb6qqZD0/Use-Case-Diagram-for-Event-Submissions?node-id=0-1&t=H8fio3NM1cOio4wo-1
+![Dance Chives User-Admin Workflow]([https://www.figma.com/design/6Z92kGgDpalGGQcb6qqZD0/Use-Case-Diagram-for-Event-Submissions?node-id=0-1&t=H8fio3NM1cOio4wo-1])
+
