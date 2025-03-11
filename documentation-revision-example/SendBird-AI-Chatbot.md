@@ -8,8 +8,11 @@ I was surprised there were no sample screenshots for these three UI displays! I 
 ### ORIGINAL TEXT/STRUCTURE
 
 **UI components for your AI chatbot for healthcare**
+
 You can display the following UI components in your healthcare AI chatbot’s conversation interface.
+
 **CardView**
+
 The data in the response are displayed in a Card View. In the demo, information such as the provider’s details can be displayed in a card with an image, title, and description. Customization of the view can be done through cardViewParamsCollectionBuilder and SBUCardViewParams. The following codes show how to set up a Card View:
 * imageURL: The URL of the image to be displayed on the card
 * title: The title to be displayed on the card
@@ -19,9 +22,11 @@ The data in the response are displayed in a Card View. In the demo, information 
 * actionHandler: The action to be performed when the card is clicked
 
 **QuickReplyView**
+
 The following codes demonstrate how to set the view for Quick Replies. The values in options of first_message_data.data are used as Quick Replies. When the user clicks on Quick Reply, the message is sent to the server.
 
 **ButtonView**
+
 The following code demonstrates how to set the view for Buttons. When the server returns a response that includes the information of adding a button to call the action, by setting the SBUButtonViewParams and updateButtonView(with: buttonParams), the button is displayed in the message. The following codes show how to set the Button view of the doctor reservation.
 * actionText: The text to be displayed on the button
 * description: The text to be displayed below the button
@@ -29,16 +34,19 @@ The following code demonstrates how to set the view for Buttons. When the server
 * enableButton: Whether the button is enabled or not
 * disableButtonText: The text to be displayed on the button when it is disabled
 
-###REVISED TEXT/STRUCTURE
+### REVISED TEXT/STRUCTURE
+
 **UI components for your AI chatbot for healthcare**
+
 Choose from the following display types for your healthcare AI chatbot’s conversation interface:
 | Display Type   | How it Looks  |
 | --------       | ---------     |
-| [CardView](#cardview)       | UI Screenshot |
-| [QuickReplyView](#QuickReplyView) | UI Screenshot |
-| [ButtonView](#ButtonView)     | UI Screenshot |
+| [CardView](#cardview)       | UI Screenshot goes here |
+| [QuickReplyView](#QuickReplyView) | UI Screenshot goes here |
+| [ButtonView](#ButtonView)     | UI Screenshot goes here |
 
 **<a name="cardview"></a>CardView**
+
 ~~The data in the response are displayed in a Card View. In the demo, information such as the provider’s details can be displayed in a card with an image, title, and description. Customization of the view can be done through~~
 **How to Customize:**
 
@@ -54,19 +62,25 @@ cardViewParamsCollectionBuilder and SBUCardViewParams
 * actionHandler: The action to be performed when the card is clicked
 
 **<a name="QuickReplyView"></a>QuickReplyView**
+
 ~~The following codes demonstrate how to set the view for Quick Replies. The values in options of first_message_data.data are used as Quick Replies. When the user clicks on Quick Reply, the message is sent to the server.~~
 
 **How to Customize:**
+
 Change the values in options of first_message_data.data 
+
 Components (click here for full code sample)
 
 **<a name="ButtonView"></a>ButtonView**
+
 ~~The following code demonstrates how to set the view for Buttons. When the server returns a response that includes the information of adding a button to call the action, by setting the~~
 
 **How to Customize:**
+
 SBUButtonViewParams and updateButtonView(with: buttonParams)~~, the button is displayed in the message. The following codes show how to set the Button view of the doctor reservation.~~
 
 **Components (click here for full code sample)**
+
 * actionText: The text to be displayed on the button
 * description: The text to be displayed below the button
 * actionHandler: The action to be performed when the button is clicked
