@@ -32,16 +32,12 @@ The following code demonstrates how to set the view for Buttons. When the server
 ###REVISED TEXT/STRUCTURE
 **UI components for your AI chatbot for healthcare**
 Choose from the following display types for your healthcare AI chatbot’s conversation interface:
-**CardView**
-[UI screenshot example]
 
-**QuickReplyView**
-[UI screenshot example]
+| <a id="cardview">CardView</a>       | [UI Screenshot] |
+| <a id="quickreplyview">QuickReplyView</a> | [UI Screenshot] |
+| <a id="buttonview">ButtonView</a>     | [UI Screenshot] |
 
-**ButtonView**
-[UI screenshot example]
-
-**CardView**
+**CardView**(#cardview)
 ~~The data in the response are displayed in a Card View. In the demo, information such as the provider’s details can be displayed in a card with an image, title, and description. Customization of the view can be done through~~
 **How to Customize:**
 
@@ -56,14 +52,14 @@ cardViewParamsCollectionBuilder and SBUCardViewParams
 * link: ~~The link to be displayed on the card~~ (If actionHandler is set, link is ignored.)
 * actionHandler: The action to be performed when the card is clicked
 
-**QuickReplyView**
+**QuickReplyView**(#quickreplyview)
 ~~The following codes demonstrate how to set the view for Quick Replies. The values in options of first_message_data.data are used as Quick Replies. When the user clicks on Quick Reply, the message is sent to the server.~~
 
 **How to Customize:**
 Change the values in options of first_message_data.data 
 Components (click here for full code sample)
 
-**ButtonView**
+**ButtonView**(#buttonview)
 ~~The following code demonstrates how to set the view for Buttons. When the server returns a response that includes the information of adding a button to call the action, by setting the~~
 
 **How to Customize:**
