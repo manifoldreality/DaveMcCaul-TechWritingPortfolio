@@ -52,7 +52,7 @@ Choose from the following display types for your healthcare AI chatbot’s conve
 
 cardViewParamsCollectionBuilder and SBUCardViewParams 
 
-**Display Components (click here for full code sample)**
+**Display Components (![click here](cardview_code) for full code sample)**
 
 * imageURL: ~~The URL of the image to be displayed on the card~~
 * title: ~~The title to be displayed on the card~~
