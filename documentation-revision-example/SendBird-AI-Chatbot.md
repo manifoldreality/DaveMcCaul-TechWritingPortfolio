@@ -52,7 +52,7 @@ Choose from the following display types for your healthcare AI chatbot’s conve
 
 cardViewParamsCollectionBuilder and SBUCardViewParams 
 
-**Display Components (![click here](cardview_code) for full code sample)**
+**Display Components (![click here](cardview_code.md) for full code sample)**
 
 * imageURL: ~~The URL of the image to be displayed on the card~~
 * title: ~~The title to be displayed on the card~~
@@ -69,7 +69,7 @@ cardViewParamsCollectionBuilder and SBUCardViewParams
 
 Change the values in options of first_message_data.data 
 
-Components (click here for full code sample)
+Components (![click here](quickreplyview_code.md) for full code sample)
 
 **<a name="ButtonView"></a>ButtonView**
 
@@ -79,7 +79,7 @@ Components (click here for full code sample)
 
 SBUButtonViewParams and updateButtonView(with: buttonParams)~~, the button is displayed in the message. The following codes show how to set the Button view of the doctor reservation.~~
 
-**Components (click here for full code sample)**
+**Components (![click here](buttonview_code.md) for full code sample)**
 
 * actionText: The text to be displayed on the button
 * description: The text to be displayed below the button
