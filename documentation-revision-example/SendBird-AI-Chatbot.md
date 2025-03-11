@@ -69,7 +69,7 @@ cardViewParamsCollectionBuilder and SBUCardViewParams
 
 Change the values in options of first_message_data.data 
 
-Components (![click here](quickreplyview_code.md) for full code sample)
+**Components (![click here](quickreplyview_code.md) for full code sample)**
 
 **<a name="ButtonView"></a>ButtonView**
 
