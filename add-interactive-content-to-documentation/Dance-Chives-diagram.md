@@ -1,10 +1,15 @@
-Use Case for Dance Chives website: how dance competition metadata is entered by users and published by administrators
+## Use Case for Dance Chives website
 
-(*as no formal documentation exists, this was compiled from messageboards*)
+**Explain how dance competition metadata is entered by users and published by administrators**
+
+(_NOTE: as no formal documentation exists, this was compiled from Discord messageboards_)
 
 1. Identify Actors and Participants:
+   
 * Base User (Dancer, Spectator, Organizer, etc)
+  
 * Administrator (has “edit” permission for website)
+  
 2. Define Use Cases:
 * Base User submits dance competition info
 * Admin User reviews/publishes entry
@@ -15,5 +20,4 @@ Use Case for Dance Chives website: how dance competition metadata is entered by 
 
 **Figma Diagram**
 
-![Dance Chives User-Admin Workflow]([https://www.figma.com/design/6Z92kGgDpalGGQcb6qqZD0/Use-Case-Diagram-for-Event-Submissions?node-id=0-1&t=H8fio3NM1cOio4wo-1])
-
+[Dance Chives User-Admin Workflow](images/Use Case Diagram for Event Submissions.png)
