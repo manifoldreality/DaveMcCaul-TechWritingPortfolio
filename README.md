@@ -1,3 +1,4 @@
+![technical writer banner](technical_writer_banner.png)
 # Dave McCaul
 ## Technical Writing Portfolio
 I took a Technical Writing course at the Hugo House in Seattle from January to March 2025. This repository contains writing samples, diagrams, and documentation audits/rewrites that showcase work I completed during the course.  
