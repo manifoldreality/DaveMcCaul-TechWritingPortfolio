@@ -1,4 +1,4 @@
-# Homework Class 3: Identify a Piece of Tehnical Documentation and Suggest Improvments
+# Revising for Clarity and Concision
 
 In this folder I've included one file in which I copied/pasted an excerpt of technical documentation for the SendBird AI Chatbot for Healthcare.
 
