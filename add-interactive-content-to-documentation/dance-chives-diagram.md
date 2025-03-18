@@ -20,4 +20,4 @@
 
 **Figma Diagram**
 
-![Dance Chives User Admin Workflow](add-interactive-content-to-documentation/use_case_diagram_for_event_submissions.png)
+![Dance Chives User Admin Workflow](use_case_diagram_for_event_submissions.png)
